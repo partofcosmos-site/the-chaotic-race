@@ -1,6 +1,6 @@
 # The Ultimate Chaotic Merbl Race
-This project is inspired from the project- <a href="https://github.com/karnxx/merbl"> https://github.com/karnxx/merbl <a/>
-I built this project during week 2 - cad week of <a href="https://halflife.hackclub.com">halflife<a/>
+This project is inspired from the project- <a href="https://github.com/karnxx/merbl"> https://github.com/karnxx/merbl <a/> <br>
+I built this project during week 2 - cad week of <a href="https://halflife.hackclub.com">halflife<a/> <br>
 THE  CHAOTIC RACE OF DEATH OR VICTORY. THE RACE TRACK IS SO BAD THAT IT LITERALLY PUSHES YOU TO THE END OF THE WORLD .😊 
 
 Idea : 
