@@ -64,5 +64,4 @@ Opened the appearances panel on the right and color-coded every part so I could 
 ![Screenshot 237](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/gSMICPeKfFIX4r61sX8jLHHguUkM0Btr/e9621c9c388fce9bf7b715b9e54e5387cc42788b0a04a16a1279597dc87a05a6.png)
 
 ![Screenshot 256](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/gSMICPeKfFIX4r61sX8jLHHguUkM0Btr/8f4129d5065eee13b7de4ad408fd4eb14a4b27a3d686c70d36be9d2182389d44.png)
-Final state after 5 hours of CAD (43 native features). The setup has the 7 support pillars in the corner, the
-  Avengers Tower, and the rear wall span. The diagonal tube on the right is still hanging in mid-air floating over the gap right now .
+The setup has the 7 support pillars in the corner, the Avengers Tower, and the rear wall span. The diagonal tube on the right is still hanging in mid-air floating over the gap right now .
